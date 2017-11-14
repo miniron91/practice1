@@ -39,6 +39,7 @@ public class ArrayList03 {
         //contains(value):특정 값이 해당 리스트에 있는지 여부(true|false)
         boolean yn = list.contains(1000);
         System.out.println("yn");
+        System.out.println(yn);
         System.out.println("---------------------------------");
         
         //indexOf(value): 해당 값의 인덱스 위치(인덱스는 0부터이니 0부터 시작)
